@@ -1,0 +1,11 @@
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\bin\Debug\AutoSoundVolume2.exe.config
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\bin\Debug\AutoSoundVolume2.exe
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\bin\Debug\AutoSoundVolume2.pdb
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\obj\Debug\AutoSoundVolume2.csproj.AssemblyReference.cache
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\obj\Debug\AutoSoundVolume2.csproj.SuggestedBindingRedirects.cache
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\obj\Debug\AutoSoundVolume2.Form1.resources
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\obj\Debug\AutoSoundVolume2.Properties.Resources.resources
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\obj\Debug\AutoSoundVolume2.csproj.GenerateResource.cache
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\obj\Debug\AutoSoundVolume2.csproj.CoreCompileInputs.cache
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\obj\Debug\AutoSoundVolume2.exe
+G:\InDarkWings\C#WinDemo\AutoSoundVolume2\AutoSoundVolume2\obj\Debug\AutoSoundVolume2.pdb
