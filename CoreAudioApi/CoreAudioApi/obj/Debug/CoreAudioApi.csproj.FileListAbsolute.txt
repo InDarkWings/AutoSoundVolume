@@ -1,0 +1,17 @@
+E:\ProjectsVS\CoreAudioApi\CoreAudioApi\bin\Debug\CoreAudioApi.exe
+E:\ProjectsVS\CoreAudioApi\CoreAudioApi\bin\Debug\CoreAudioApi.pdb
+E:\ProjectsVS\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.Form1.resources
+E:\ProjectsVS\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.Properties.Resources.resources
+E:\ProjectsVS\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.csproj.GenerateResource.cache
+E:\ProjectsVS\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.csproj.CoreCompileInputs.cache
+E:\ProjectsVS\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.exe
+E:\ProjectsVS\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.pdb
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\bin\Debug\CoreAudioApi.exe
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\bin\Debug\CoreAudioApi.pdb
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.csproj.AssemblyReference.cache
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.Form1.resources
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.Properties.Resources.resources
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.csproj.GenerateResource.cache
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.csproj.CoreCompileInputs.cache
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.exe
+G:\InDarkWings\C#WinDemo\CoreAudioApi\CoreAudioApi\obj\Debug\CoreAudioApi.pdb
